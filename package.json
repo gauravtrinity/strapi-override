@@ -1,4 +1,6 @@
 {
+  "name": "strapi-override",
+  "version": "5.8.1",
   "scripts": {
     "postinstall": "./copy_distribution_files.sh"
   }
